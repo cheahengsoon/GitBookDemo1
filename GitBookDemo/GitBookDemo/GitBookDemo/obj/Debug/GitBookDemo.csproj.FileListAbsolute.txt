@@ -1,0 +1,52 @@
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.pdb
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.pdb
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll.mdb
+C:\Users\es.cheah\Documents\Visual Studio 2015\Projects\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll.config
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.pdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\SQLitePCL.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\System.Net.Http.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\System.Net.Http.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.csproj.App.config
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.csprojResolveAssemblyReference.cache
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.AddMember.xaml.g.cs
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.pdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\obj\Debug\GitBookDemo.dll.mdb
+C:\Users\EngSoon\Desktop\GitBookDemo\GitBookDemo\GitBookDemo\bin\Debug\GitBookDemo.dll.mdb

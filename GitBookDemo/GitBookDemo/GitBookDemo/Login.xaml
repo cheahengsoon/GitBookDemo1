@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GitBookDemo.Login">
+  <StackLayout>
+    <Entry x:Name="txtusername" Placeholder="Username"/>
+    <Entry x:Name="txtpassword" Placeholder="Password"/>  
+    <Button x:Name="signInButton" Text="SignIn" Clicked="SignIn_Clicked"/>
+  </StackLayout>
+</ContentPage>
